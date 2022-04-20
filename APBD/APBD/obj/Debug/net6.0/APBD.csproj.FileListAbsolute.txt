@@ -1,0 +1,15 @@
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.csproj.AssemblyReference.cache
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.AssemblyInfoInputs.cache
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.AssemblyInfo.cs
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.csproj.CoreCompileInputs.cache
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\bin\Debug\net6.0\APBD.exe
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\bin\Debug\net6.0\APBD.deps.json
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\bin\Debug\net6.0\APBD.runtimeconfig.json
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\bin\Debug\net6.0\APBD.dll
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\bin\Debug\net6.0\APBD.pdb
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.dll
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\refint\APBD.dll
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.pdb
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\APBD.genruntimeconfig.cache
+C:\Users\Sviatoslav\RiderProjects\APBD\APBD\obj\Debug\net6.0\ref\APBD.dll
